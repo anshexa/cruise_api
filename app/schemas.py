@@ -1,3 +1,5 @@
+import os
+
 from pydantic import BaseModel, Field, root_validator, validator
 
 
